@@ -1,0 +1,39 @@
+.part7-0 {
+    margin-top: 100px;
+    height: 220px;
+    background: rgb(34, 204, 116);
+}
+
+.part-7 {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 800px);
+    align-items: center;
+    justify-content: center;
+}
+  
+.part-7-text {
+    padding: 30px;
+}
+  
+.part-7-text h1 {
+    font-size: 40px;
+    color: #00214A;
+    font-weight: 700;
+}
+  
+.part-7-text p {
+    color: #0B0B0B;
+    font-size: 16px;
+    padding-top: 30px;
+}
+  
+.part-7-img {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 200px);
+    align-items: center;
+}
+
+.part-7-img img {
+    width: 168px;
+    height: 50px;
+}

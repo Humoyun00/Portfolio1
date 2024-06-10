@@ -1,0 +1,56 @@
+#part3-h1 {
+    text-align: center;
+}
+
+#part3-p  {
+    text-align: center;
+}
+
+#part3-p a {
+    color: #000;
+}
+
+.part3-boxs {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 533px);
+    align-items: center;
+    letter-spacing: 1px;
+}
+
+.part3-boxs1 {
+    margin-top: 50px;
+    width: 450px;
+    height: 380px;
+    background: #060629;
+    padding: 20px;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.part3-boxs1 img {
+    width: 96px;
+    height: 96px;
+}
+
+.part3-boxs1 h6 {
+    font-size: 24px;
+    padding-top: 10px;
+}
+
+.part3-boxs1 p {
+    padding-top: 30px;
+    line-height: 25px;
+}
+
+.part3-box p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 70px auto;
+    width: 896px;
+    height: 50px;
+    background-color: #060629;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+}

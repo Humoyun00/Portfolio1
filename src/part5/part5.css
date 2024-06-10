@@ -1,0 +1,50 @@
+:root {
+    --tw-bg-opacity: 1;
+}
+
+.part5 {
+    background: rgb(244 248 250 / var(--tw-bg-opacity));
+}
+
+.part5-blok {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 720px);
+    justify-content: center;
+}
+
+.part-5-text {
+    padding-top: 150px;
+}
+  
+.part-5-text h2 {
+    font-size: 24px;
+    font-weight: 500;
+}
+  
+.part-5-text p {
+    font-size: 16px;
+    font-weight: 600;
+    color: #000;
+    padding-top: 30px;
+}
+  
+.part-5-item {
+    display: flex;
+    align-items: center;
+}
+  
+.part-5-item img {
+    width: 35px;
+    height: 35px;
+    margin-top: 30px;
+}
+  
+.part-5-item span {
+    padding-top: 30px;
+    font-size: 16px;
+}
+
+.part-5-img img {
+    width: 751px;
+    height: 752px;
+}

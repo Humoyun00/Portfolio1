@@ -1,0 +1,45 @@
+{
+  "logo": {
+    "src": "../img/logo.svg",
+    "alt": "Logo"
+  },
+  "navbarItems": [
+    {
+      "path": "trading",
+      "label": "Trading",
+      "icon": {
+        "src": "../icons/chevron-down.svg",
+        "alt": "Chevron"
+      }
+    },
+    {
+      "path": "platforms",
+      "label": "Platform",
+      "icon": {
+        "src": "../icons/chevron-down.svg",
+        "alt": "Chevron"
+      }
+    },
+    {
+      "path": "tools",
+      "label": "Tools & Resources",
+      "icon": {
+        "src": "../icons/chevron-down.svg",
+        "alt": "Chevron"
+      }
+    },
+    {
+      "path": "account",
+      "label": "Account types",
+      "icon": {
+        "src": "../icons/chevron-down.svg",
+        "alt": "Chevron"
+      }
+    }
+  ],
+  "login": {
+    "path": "login",
+    "label": "Log in",
+    "id": "button-link"
+  }
+}
